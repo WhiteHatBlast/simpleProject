@@ -1,0 +1,124 @@
+
+body {
+  
+
+    background: url('../background/background.jpg') ;
+	background-repeat:repeat;
+
+}
+
+.bigtitle {
+    color:gray;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform:uppercase;
+} 
+
+#BigDiv{
+    text-align: left;
+    margin-top: 20px;
+    width : 1010px;
+    font-family: arial;
+    font-size: 11px;
+}
+
+#DivContent{
+    width : 100%;
+    background-color: white;
+    margin-top: 20px;
+    padding-bottom: 20px;
+
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+
+    -moz-box-shadow: 0 3px 6px #000;
+    -webkit-box-shadow: 0 3px 6px #000;
+    box-shadow: 0 3px 6px #000;
+
+}
+
+#DivSmallContent { margin: 60px; text-align: center;}
+
+#DivFooter{
+    width : 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 10px;
+    text-align: center;
+    letter-spacing: 1px
+}
+
+#DivCounter{ text-align: center; }
+
+#DivMenu{ float : right; }
+
+#BigTitle {
+    text-align: center;
+    text-transform: uppercase;
+    font-family : arial;
+    font-size: 20px;
+    color : #3BB9FF;
+    text-shadow: 1px 1px gray;
+}
+
+.btn {
+    padding : 5px 20px;
+    background-color: #cccccc;
+    border : 0;
+    cursor: pointer;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+    color : black;
+    letter-spacing: 1px;
+
+} 
+
+.syarikat td {
+    font-family: arial;
+    font-size: 11px;
+    letter-spacing: 1px;
+    padding : 0px 5px 0px 5px;
+}
+
+.title { 
+    font-weight : bold;
+    font-size : 16px;
+    text-transform: uppercase;
+}
+
+.syarikat { padding : 10px 10px 10px 10px; }
+
+.dottedline { border-bottom : 1px dotted gray; }
+
+.total {
+    font-family: arial;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color : gray;  
+}
+
+.menusmall td a {
+    font-family: arial;
+    font-size: 12px;
+    letter-spacing: 1px;
+    color : gray;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menusmall td a:hover{
+    text-decoration: underline;
+    color : #FFDE00;
+}
+
+.menusmall td { padding : 5px 0px 5px 15px; }
+
+.list{ list-style-type:square; }
+
+.dottedline2 { border-right : 1px dotted gray; }
+
+.listnumber{ text-align:left; }
+
+

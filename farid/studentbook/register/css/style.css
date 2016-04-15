@@ -1,0 +1,42 @@
+/* 
+Credits: Bit Repository
+CSS Library: http://www.bitrepository.com/
+*/
+
+
+
+/* Let's add some style to our fieldset & legend */
+
+fieldset
+{
+
+margin-top: 50px;
+}
+
+
+
+/* Label */
+label 
+{
+width: 220px;
+font-size:14px;
+
+float: left;
+text-align: left;
+}
+
+.error {
+  background: #E52727;
+  display: block;
+  padding: 10px;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  font-size: 15px;
+  color: #fff;
+  margin: 10px;
+}
+
+
+
+

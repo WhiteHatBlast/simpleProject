@@ -1,0 +1,16 @@
+body {
+  
+
+    background-color:#424242 ;
+	background-repeat:repeat;
+
+}
+select, textarea, button {
+
+
+outline:none; resize:none;}
+
+input{
+color:white;
+background-color:#045FB4;
+}

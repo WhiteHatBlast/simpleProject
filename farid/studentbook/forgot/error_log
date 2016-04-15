@@ -1,0 +1,41 @@
+[24-Feb-2013 00:44:31] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[24-Feb-2013 00:44:41] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 05:59:54] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 05:59:57] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 05:59:57] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 05:59:59] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:00:00] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/itmind4u/public_html/project/forgot/index.php on line 29
+[01-Mar-2013 06:00:01] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:26:58] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:26:59] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:27:00] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:27:02] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:27:03] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/itmind4u/public_html/project/forgot/index.php on line 29
+[01-Mar-2013 06:27:04] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:37:24] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:37:27] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:37:29] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:37:32] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:54:09] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:54:12] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:54:14] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:54:17] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:56:24] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:56:27] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:56:32] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 06:56:34] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 07:00:38] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 07:00:43] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 07:00:46] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[01-Mar-2013 07:00:48] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[03-Mar-2013 03:21:07] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[03-Mar-2013 03:21:33] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[03-Mar-2013 03:23:22] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[03-Mar-2013 03:24:31] PHP Parse error:  syntax error, unexpected '}' in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2315
+[03-Mar-2013 03:25:27] PHP Fatal error:  Cannot redeclare class PHPMailer in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 43
+[03-Mar-2013 03:26:49] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[03-Mar-2013 03:29:49] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_FUNCTION in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2314
+[03-Mar-2013 03:33:52] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/itmind4u/public_html/project/forgot/include/class.phpmailer.php on line 2319
+[03-Mar-2013 03:40:58] PHP Fatal error:  Class 'Database' not found in /home/itmind4u/public_html/project/forgot/index.php on line 20
+[25-Jun-2013 22:10:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'itmind4u'@'localhost' (using password: NO) in /home/itmind4u/public_html/studentbook/forgot/index.php on line 129
+[25-Jun-2013 22:10:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/itmind4u/public_html/studentbook/forgot/index.php on line 129

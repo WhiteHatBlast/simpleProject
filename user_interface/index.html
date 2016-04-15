@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>ANDVOID WEB APPLICATION</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel ="stylesheet "href="css/jquery.mobile-1.2.0.css"/>
+<script src="js/jQuery.js"></script>
+<script src="js/jquery.mobile-1.2.0.min.js"></script>
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head> 
+<body> 
+
+<div data-role="page" id="page">
+	<div data-role="header" data-theme="a">
+		<center><img src="img/andvote logo.png" width="200" height="40"></center>
+	</div>
+	
+	<center><img src="img/banner andvote.jpg" width="480" height="200"></center>
+	<div data-role="content">
+		
+		<ul data-role="listview" data-inset="true" data-dividertheme="a">
+			<li data-role="list-divider"><center><h1>INTRODUCTION</h1></center></li>
+			<li><a href="whatprk.html">What is PRK</a></li>
+			<li><a href="howregister.html">How to Register</a></li>
+            <li><a href="howvote.html">How to vote</a></li>
+		</ul>
+	</div>
+	
+	<center><form>
+    <label for="next">Slide to Register</label>
+    	<select onchange="if (this.value) window.location.href=this.value" name="next" id="next" data-role="slider" data-track-theme="a" data-theme="a">
+        <option value="index.html">Slide</option>
+        <option value="register.html">Now</option>
+    </select></form></center><br>
+	
+	
+	
+	<!-- <a href="register.html" data-role="button"> Register</a> !-->
+		
+	<div data-role="footer"  data-theme="a">
+    <hr><center>
+	<b>Copyright &copy; 2013 ANDVOTE PSP&trade;,<br> All Rights Reserved.</b></center><hr>
+	</div>
+</div>
+
+</body>
+</html>

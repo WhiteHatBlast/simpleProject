@@ -1,0 +1,23 @@
+fieldset {
+	width: 460px;
+	height:230px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1px solid #004000;
+	background: gold;
+	color: #000000;
+	padding: 0 20px;
+}
+
+
+label,td{
+
+color:white;
+
+
+
+}
+
+th{
+
+color:#01DF3A;
+}

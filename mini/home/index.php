@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+<title>Main</title>
+</head>
+
+
+<center>
+<body background="../img/masjidputih.jpg">
+<img src="../img/psp logo.png" width="1000" height="140">
+</center>
+
+
+<!-- left -->
+<table ><tr><td><iframe src="iframe_shoutbox.php" height="350" width="200" frameborder="0"></iframe></td><td><iframe src="../iframe/index.php" width="900" height="600"></iframe></td><td><img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://c.gigcount.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEzNTg3NTU*NzY1ODQmcHQ9MTM1ODc1NTQ4Njg3MSZwPTIzODk4MSZkPUlzbGFtaWMlMjBDbG9jayUzYSUyMGxvdmVp/c2xhbTAxJmc9MSZvPWMwNTlhMGEwYmY1NTRiYmNiNjE3YjY3YTFmZDVjZmY5Jm9mPTA=.gif" />
+<!-- right --><a href="">Logkeluar</a>
+<img src="../img/logopi.png">
+<div style="margin:0px auto;text-align:center;width:160px;height:160px;"><embed src="http://widgets.al-habib.info/images/islamiclock_loveislam01_wpd.swf" width="160" height="160" flashvars="&col1=000000&col2=ccff00&col3=eeffcc&tzoffset=false" swliveconnect="true" quality="best" loop="false" menu="false" wmode="transparent" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" /><br><table border="2"><tr><td><a href="swf.php"><img src="../img/yang.png"></a></td></tr></table><img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://widgets.al-habib.info/images/blank.gif?_alhacid=1358755472219"><br><iframe marginheight="0" marginwidth="0"  src=http://www.e-solat.gov.my/solatC.php?kod=PNG01&lang=BM&url=http:/www.islam.gov.my width=100% height=350 frameborder=0></iframe></div></td></tr></table></p>
+
+
+
+
+<br><br><br><br>
+<hr></hr>
+<center><br><b> HakCipta Terpelihara &copy; 2013 HOTSPOTPI</b>
+<hr></hr>
+</center>
+</body>
+</html>

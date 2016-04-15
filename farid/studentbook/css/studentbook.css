@@ -1,0 +1,67 @@
+/*
+ * jQuery studentbook Slider v0.4 BETA
+ * http://marktyrrell.com/labs/studentbook/
+ *
+ * Copyright (C) 2011, Mark Tyrrell <me@marktyrrell.com>
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
+.studentbook { margin: 0 auto; }
+.studentbook .slides {
+	display: block;
+	position: relative;
+	overflow: hidden;
+}
+.studentbook .slides li {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+.studentbook .slides li img {
+	display: block;
+	width: 100%;
+	max-width: none;
+}
+.studentbook .slides li.active { display: block; position: relative; }
+.studentbook .crop li img { width: auto; }
+
+.studentbook .pager {
+	height: 40px;
+	text-align: center;
+}
+.studentbook .pager li { display: inline-block; }
+.studentbook .pager li a,
+.studentbook .pager li a span {
+	display: block;
+	height: 4px;
+	width: 4px;
+}
+.studentbook .pager li a {
+	padding: 18px 8px;
+-webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+	border-radius: 6px;
+}
+.studentbook .pager li a span {
+	overflow: hidden;
+	background: #84d771;
+	text-indent: -9999px;
+-webkit-border-radius: 2px;
+   -moz-border-radius: 2px;
+	border-radius: 2px;
+}
+.studentbook .pager li.active a span { background: #404040; }
